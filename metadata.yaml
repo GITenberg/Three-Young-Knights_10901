@@ -1,0 +1,25 @@
+_repo: Three-Young-Knights_10901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Donnell, Annie Hamilton
+    birthdate: 1862
+    gutenberg_agent_id: '1192'
+    url: http://www.gutenberg.org/2009/agents/1192
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sunday school literature'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- GITenberg
+title: Three Young Knights
+url: http://www.gutenberg.org/ebooks/10901
